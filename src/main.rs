@@ -8,7 +8,7 @@ fn largest(list: &[i32]) -> i32 {
     }
     largest
 }
-fail
+
 fn main() {
     let number_list = vec![14,64,37,82,39];
 
